@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\net5.0\Genetic_Algorithm.exe
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\net5.0\Genetic_Algorithm.deps.json
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\net5.0\Genetic_Algorithm.runtimeconfig.json
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\net5.0\Genetic_Algorithm.runtimeconfig.dev.json
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\net5.0\Genetic_Algorithm.dll
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\net5.0\ref\Genetic_Algorithm.dll
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\bin\Debug\net5.0\Genetic_Algorithm.pdb
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\net5.0\Genetic_Algorithm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\net5.0\Genetic_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\net5.0\Genetic_Algorithm.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\net5.0\Genetic_Algorithm.AssemblyInfo.cs
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\net5.0\Genetic_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\net5.0\Genetic_Algorithm.dll
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\net5.0\ref\Genetic_Algorithm.dll
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\net5.0\Genetic_Algorithm.pdb
+C:\Users\user\Desktop\laborator_2_marti_ora_8\travelling_salesman_genetic_algorithm\Genetic_Algorithm\Genetic_Algorithm\obj\Debug\net5.0\Genetic_Algorithm.genruntimeconfig.cache
